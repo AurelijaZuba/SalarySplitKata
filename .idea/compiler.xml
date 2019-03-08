@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SalarySplitKata" target="1.5" />
+      <module name="SalarySplitKata" target="10" />
     </bytecodeTargetLevel>
   </component>
 </project>
